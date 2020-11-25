@@ -1,5 +1,5 @@
 # Workshop / **WebGL**
-___
+
 
 WebGl est une norme Web multiplateforme et libre de droits pour une API graphique 3D de bas niveau basée sur OpenGL ES.
 
